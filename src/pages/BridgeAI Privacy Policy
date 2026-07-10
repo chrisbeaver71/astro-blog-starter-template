@@ -1,0 +1,52 @@
+---
+const title = "BridgeAI Privacy Policy";
+---
+
+<html>
+<head>
+<title>{title}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="max-width:800px;margin:40px auto;font-family:Arial;line-height:1.6;padding:20px">
+
+<h1>BridgeAI Privacy Policy</h1>
+
+<p>Effective date: July 10, 2026</p>
+
+<p>
+BridgeAI is a browser extension that provides AI-powered assistance through a browser side panel.
+</p>
+
+<h2>Information We Collect</h2>
+
+<p>
+BridgeAI may process account information used for authentication, user prompts, website content users choose to analyze, and extension preferences.
+</p>
+
+<h2>How We Use Information</h2>
+
+<p>
+Information is used only to provide BridgeAI features including authentication, AI assistance, and maintaining user settings.
+</p>
+
+<h2>Third-Party Services</h2>
+
+<p>
+BridgeAI may use third-party services for authentication, cloud services, payments, and AI processing.
+</p>
+
+<h2>Data Sharing</h2>
+
+<p>
+BridgeAI does not sell user data.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+ctaylorsc@gmail.com
+</p>
+
+</body>
+</html>
